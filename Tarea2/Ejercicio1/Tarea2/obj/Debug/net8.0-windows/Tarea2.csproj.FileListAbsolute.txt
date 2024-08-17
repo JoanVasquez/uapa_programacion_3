@@ -1,0 +1,16 @@
+C:\Users\JoanV\source\repos\Tarea2\Tarea2\bin\Debug\net8.0-windows\Tarea2.exe
+C:\Users\JoanV\source\repos\Tarea2\Tarea2\bin\Debug\net8.0-windows\Tarea2.deps.json
+C:\Users\JoanV\source\repos\Tarea2\Tarea2\bin\Debug\net8.0-windows\Tarea2.runtimeconfig.json
+C:\Users\JoanV\source\repos\Tarea2\Tarea2\bin\Debug\net8.0-windows\Tarea2.dll
+C:\Users\JoanV\source\repos\Tarea2\Tarea2\bin\Debug\net8.0-windows\Tarea2.pdb
+C:\Users\JoanV\source\repos\Tarea2\Tarea2\obj\Debug\net8.0-windows\Tarea2.Form1.resources
+C:\Users\JoanV\source\repos\Tarea2\Tarea2\obj\Debug\net8.0-windows\Tarea2.csproj.GenerateResource.cache
+C:\Users\JoanV\source\repos\Tarea2\Tarea2\obj\Debug\net8.0-windows\Tarea2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoanV\source\repos\Tarea2\Tarea2\obj\Debug\net8.0-windows\Tarea2.AssemblyInfoInputs.cache
+C:\Users\JoanV\source\repos\Tarea2\Tarea2\obj\Debug\net8.0-windows\Tarea2.AssemblyInfo.cs
+C:\Users\JoanV\source\repos\Tarea2\Tarea2\obj\Debug\net8.0-windows\Tarea2.csproj.CoreCompileInputs.cache
+C:\Users\JoanV\source\repos\Tarea2\Tarea2\obj\Debug\net8.0-windows\Tarea2.dll
+C:\Users\JoanV\source\repos\Tarea2\Tarea2\obj\Debug\net8.0-windows\refint\Tarea2.dll
+C:\Users\JoanV\source\repos\Tarea2\Tarea2\obj\Debug\net8.0-windows\Tarea2.pdb
+C:\Users\JoanV\source\repos\Tarea2\Tarea2\obj\Debug\net8.0-windows\Tarea2.genruntimeconfig.cache
+C:\Users\JoanV\source\repos\Tarea2\Tarea2\obj\Debug\net8.0-windows\ref\Tarea2.dll
