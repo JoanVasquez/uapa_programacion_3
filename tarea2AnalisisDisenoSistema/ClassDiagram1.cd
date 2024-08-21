@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="tarea2AnalisisDisenoSistema.Usuario">
+    <Position X="4.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAoACgACAAgAAAAAAAAAAAAAAAAgAAAgI=</HashCode>
+      <FileName>Usuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tarea2AnalisisDisenoSistema.MySqlDatabaseHelper">
+    <Position X="9" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAABABAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MySqlDatabaseHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tarea2AnalisisDisenoSistema.Libro">
+    <Position X="6.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAQAIAgEAAAAAAAAIAAAACAAAAAAAAAIAAAgE=</HashCode>
+      <FileName>Libro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tarea2AnalisisDisenoSistema.BibliotecaServicio">
+    <Position X="12.25" Y="3.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAGgwAABAAAAEAAAABAAEEAAAAAAEAAAAAEAAAAAAA=</HashCode>
+      <FileName>BibliotecaServicio.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="IBiblioteca" />
+      <Property Name="MySqlDatabaseHelper" />
+      <Property Name="Libro" />
+      <Property Name="Usuario" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.763" />
+  </Class>
+  <Interface Name="tarea2AnalisisDisenoSistema.IBiblioteca">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAggAAAAAAAEAAAABAAEEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IBiblioteca.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

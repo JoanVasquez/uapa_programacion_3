@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JoanV\\source\\repos\\tarea2AnalisisDisenoSistema\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5695A32B-8D98-43CD-9BFC-79CB8817B02A}|tarea2AnalisisDisenoSistema\\tarea2AnalisisDisenoSistema.csproj|c:\\users\\joanv\\source\\repos\\tarea2analisisdisenosistema\\tarea2analisisdisenosistema\\bibliotecaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5695A32B-8D98-43CD-9BFC-79CB8817B02A}|tarea2AnalisisDisenoSistema\\tarea2AnalisisDisenoSistema.csproj|solutionrelative:tarea2analisisdisenosistema\\bibliotecaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5695A32B-8D98-43CD-9BFC-79CB8817B02A}|tarea2AnalisisDisenoSistema\\tarea2AnalisisDisenoSistema.csproj|c:\\users\\joanv\\source\\repos\\tarea2analisisdisenosistema\\tarea2analisisdisenosistema\\ibiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5695A32B-8D98-43CD-9BFC-79CB8817B02A}|tarea2AnalisisDisenoSistema\\tarea2AnalisisDisenoSistema.csproj|solutionrelative:tarea2analisisdisenosistema\\ibiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5695A32B-8D98-43CD-9BFC-79CB8817B02A}|tarea2AnalisisDisenoSistema\\tarea2AnalisisDisenoSistema.csproj|c:\\users\\joanv\\source\\repos\\tarea2analisisdisenosistema\\tarea2analisisdisenosistema\\mysqldatabasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5695A32B-8D98-43CD-9BFC-79CB8817B02A}|tarea2AnalisisDisenoSistema\\tarea2AnalisisDisenoSistema.csproj|solutionrelative:tarea2analisisdisenosistema\\mysqldatabasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5695A32B-8D98-43CD-9BFC-79CB8817B02A}|tarea2AnalisisDisenoSistema\\tarea2AnalisisDisenoSistema.csproj|c:\\users\\joanv\\source\\repos\\tarea2analisisdisenosistema\\tarea2analisisdisenosistema\\tarea2analisisdisenosistema.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5695A32B-8D98-43CD-9BFC-79CB8817B02A}|tarea2AnalisisDisenoSistema\\tarea2AnalisisDisenoSistema.csproj|solutionrelative:tarea2analisisdisenosistema\\tarea2analisisdisenosistema.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBiblioteca.cs",
+              "DocumentMoniker": "C:\\Users\\JoanV\\source\\repos\\tarea2AnalisisDisenoSistema\\tarea2AnalisisDisenoSistema\\IBiblioteca.cs",
+              "RelativeDocumentMoniker": "tarea2AnalisisDisenoSistema\\IBiblioteca.cs",
+              "ToolTip": "C:\\Users\\JoanV\\source\\repos\\tarea2AnalisisDisenoSistema\\tarea2AnalisisDisenoSistema\\IBiblioteca.cs",
+              "RelativeToolTip": "tarea2AnalisisDisenoSistema\\IBiblioteca.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T23:24:19.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BibliotecaServicio.cs",
+              "DocumentMoniker": "C:\\Users\\JoanV\\source\\repos\\tarea2AnalisisDisenoSistema\\tarea2AnalisisDisenoSistema\\BibliotecaServicio.cs",
+              "RelativeDocumentMoniker": "tarea2AnalisisDisenoSistema\\BibliotecaServicio.cs",
+              "ToolTip": "C:\\Users\\JoanV\\source\\repos\\tarea2AnalisisDisenoSistema\\tarea2AnalisisDisenoSistema\\BibliotecaServicio.cs",
+              "RelativeToolTip": "tarea2AnalisisDisenoSistema\\BibliotecaServicio.cs",
+              "ViewState": "AQIAAAIBAAAAAAAAAADwvycBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T23:24:10.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MySqlDatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\JoanV\\source\\repos\\tarea2AnalisisDisenoSistema\\tarea2AnalisisDisenoSistema\\MySqlDatabaseHelper.cs",
+              "RelativeDocumentMoniker": "tarea2AnalisisDisenoSistema\\MySqlDatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\JoanV\\source\\repos\\tarea2AnalisisDisenoSistema\\tarea2AnalisisDisenoSistema\\MySqlDatabaseHelper.cs",
+              "RelativeToolTip": "tarea2AnalisisDisenoSistema\\MySqlDatabaseHelper.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAkwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T23:23:58.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "tarea2AnalisisDisenoSistema",
+              "DocumentMoniker": "C:\\Users\\JoanV\\source\\repos\\tarea2AnalisisDisenoSistema\\tarea2AnalisisDisenoSistema\\tarea2AnalisisDisenoSistema.csproj",
+              "RelativeDocumentMoniker": "tarea2AnalisisDisenoSistema\\tarea2AnalisisDisenoSistema.csproj",
+              "ToolTip": "C:\\Users\\JoanV\\source\\repos\\tarea2AnalisisDisenoSistema\\tarea2AnalisisDisenoSistema\\tarea2AnalisisDisenoSistema.csproj",
+              "RelativeToolTip": "tarea2AnalisisDisenoSistema\\tarea2AnalisisDisenoSistema.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-21T23:15:26.446Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
